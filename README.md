@@ -1,5 +1,5 @@
 # WebScraping
-This repository contains web scraping projects. 
+This repository contains web scraping projects, and associated EDA.
 
 Natural disasters ravage countries all around the world while leaving a wake of financial and personal destruction. There are various kinds of disasters but all of them cause similar types of harm to countries, states, and homes. 
 
@@ -13,3 +13,5 @@ The tables contains 7 variables:
 5. Main article
 6. Location
 7. Notes
+
+A summary image was produced using the most common natural disasters and comparing their death tolls over many years. 
